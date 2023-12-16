@@ -300,7 +300,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/mh2lm/proprietary/vendor/etc/qdcm_calib_data_td4328_video_mode_dsi_truly_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_td4328_video_mode_dsi_truly_panel.xml \
     vendor/lge/mh2lm/proprietary/vendor/etc/qdcm_calib_data_td4330_cmd_mode_dsi_truly_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_td4330_cmd_mode_dsi_truly_panel.xml \
     vendor/lge/mh2lm/proprietary/vendor/etc/qdcm_calib_data_td4330_video_mode_dsi_truly_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_td4330_video_mode_dsi_truly_panel.xml \
-    vendor/lge/mh2lm/proprietary/vendor/etc/sensors/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf \
     vendor/lge/mh2lm/proprietary/vendor/etc/sensors/proto/descriptor.proto:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/proto/descriptor.proto \
     vendor/lge/mh2lm/proprietary/vendor/etc/sensors/proto/nanopb.proto:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/proto/nanopb.proto \
     vendor/lge/mh2lm/proprietary/vendor/etc/sensors/proto/sns_accel.proto:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/proto/sns_accel.proto \
@@ -499,6 +498,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/mh2lm/proprietary/vendor/lib/camera/com.qti.tuned.s5k3m3_mh2.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.s5k3m3_mh2.bin \
     vendor/lge/mh2lm/proprietary/vendor/lib/camera/com.qti.tuned.s5kgd1_front.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.s5kgd1_front.bin \
     vendor/lge/mh2lm/proprietary/vendor/lib/camera/com.qti.tuned.s5kgd1_multicam.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.s5kgd1_multicam.bin \
+    vendor/lge/mh2lm/proprietary/vendor/lib/camera/components/com.lge.node.camerasolution.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.lge.node.camerasolution.so \
     vendor/lge/mh2lm/proprietary/vendor/lib/camera/components/com.lge.node.dupis.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.lge.node.dupis.so \
     vendor/lge/mh2lm/proprietary/vendor/lib/camera/components/com.lge.node.duvis.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.lge.node.duvis.so \
     vendor/lge/mh2lm/proprietary/vendor/lib/camera/components/com.lge.node.elpis.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.lge.node.elpis.so \
