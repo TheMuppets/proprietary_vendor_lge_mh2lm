@@ -426,6 +426,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/mh2lm/proprietary/vendor/etc/sensors/registry/registry/sensors_registry:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/registry/registry/sensors_registry \
     vendor/lge/mh2lm/proprietary/vendor/etc/sensors/registry/registry/sensors_settings:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/registry/registry/sensors_settings \
     vendor/lge/mh2lm/proprietary/vendor/etc/sensors/sns_reg_config:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sns_reg_config \
+    vendor/lge/mh2lm/proprietary/vendor/etc/thermal-engine-8150.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-8150.conf \
     vendor/lge/mh2lm/proprietary/vendor/etc/wifi/CN/bdwlan.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/CN/bdwlan.bin \
     vendor/lge/mh2lm/proprietary/vendor/etc/wifi/CN/bdwlan_ch0.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/CN/bdwlan_ch0.bin \
     vendor/lge/mh2lm/proprietary/vendor/etc/wifi/CN/bdwlan_ch1.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/CN/bdwlan_ch1.bin \
